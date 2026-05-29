@@ -1,12 +1,15 @@
 <div align="center">
 
 ```
- _  __     _     _                  ____  _                      _                  _
-| |/ /   _| | __| | ___  ___ _ __ | __ )| |__   __ _ _ __ ____| |__   ____ _ _ __| |
-| ' / | | | |/ _` |/ _ \/ _ \ '_ \|  _ \| '_ \ / _` | '__|  __| '_ \ / _` | '__| |/ /
-| . \ |_| | | (_| |  __/  __/ |_) | |_) | | | | (_| | |  | |_ | | | | (_| | |  |   <
-|_|\_\__,_|_|\__,_|\___|\___| .__/|____/|_| |_|\__,_|_|   \__|_| |_|\__,_|_|  |_|\_\
-                              |_|
+ _  __         _      _                        ____  _                   _                   _ 
+| |/ /        | |    | |                      |  _ \| |                 | |                 (_)
+| ' / _   _   | |  __| | ___  ___  _ __       | |_) | |__   __ _ _ __ __| |_      ____ _ _   _ 
+|  < | | | |  | | / _` |/ _ \/ _ \| '_ \      |  _ <| '_ \ / _` | '__/ _` \ \ /\ / / _` | | | |
+| . \| |_| |  | || (_| |  __/  __/| |_) |     | |_) | | | | (_| | | | (_| |\ V  V / (_| | |_| |
+|_|\_\\__,_|  |_| \__,_|\___|\___| .__/       |____/|_| |_|\__,_|_|  \__,_| \_/\_/ \__,_|\__, |
+                                  | |                                                      __/ |
+                                  |_|                                                      |___/
+
 ```
 
 **`B.Tech Electrical Engineering @ IIT Delhi`**
@@ -33,7 +36,7 @@ class Kuldeep(MLEngineer, SoftwareDeveloper):
     def __init__(self):
         self.role     = "Aspiring AI/ML Engineer"
         self.base     = "Delhi, India"
-        self.degree   = "B.Tech Electrical Engineering, IIT Delhi '26"
+        self.degree   = "B.Tech Electrical Engineering, IIT Delhi"
         self.focus    = ["ML Systems", "ETL Pipelines", "Production AI"]
         self.status   = "Open to opportunities"
 
