@@ -7,8 +7,8 @@
 |  < | | | |  | | / _` |/ _ \/ _ \| '_ \      |  _ <| '_ \ / _` | '__/ _` \ \ /\ / / _` | | | |
 | . \| |_| |  | || (_| |  __/  __/| |_) |     | |_) | | | | (_| | | | (_| |\ V  V / (_| | |_| |
 |_|\_\\__,_|  |_| \__,_|\___|\___| .__/       |____/|_| |_|\__,_|_|  \__,_| \_/\_/ \__,_|\__, |
-                                  | |                                                      __/ |
-                                  |_|                                                      |___/
+                                  | |                                                     __/ |
+                                  |_|                                                     |___/
 
 ```
 
@@ -165,20 +165,8 @@ class Kuldeep(MLEngineer, SoftwareDeveloper):
 
 ---
 
-## Top Contributed Repositories
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=KBhardwaj-007&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 <div align="center">
 
 `status: open to opportunities` — reach out at [contact@kuldeepbhardwaj.me](mailto:contact@kuldeepbhardwaj.me)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=KBhardwaj-007&icon=0&color=1)](https://visitcount.itsvg.in)
 
 </div>
